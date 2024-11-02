@@ -1,5 +1,7 @@
 # URLO
 
+[Download link](https://github.com/Choollol/URLO/releases/tag/Release)
+
 URLO is a simple C program that opens a user-defined list of URLs on their system's default browser. 
 
 **How to Use**
